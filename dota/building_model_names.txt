@@ -1,0 +1,3 @@
+models\buildings\building_plain_reference.mdl
+models\buildings\building_racks_melee_reference.mdl
+models\buildings\building_racks_ranged_reference.mdl

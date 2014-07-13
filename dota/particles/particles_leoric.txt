@@ -1,0 +1,2 @@
+leoric_spell_hellfire_blast
+leoric_heroname

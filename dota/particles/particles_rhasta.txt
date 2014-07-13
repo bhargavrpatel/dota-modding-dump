@@ -1,0 +1,13 @@
+rhasta_spell_forked_lightning_beam
+rhasta_spell_shackle_old
+rhasta_spell_shackle_net
+rhasta_chain
+rhasta_spell_forked_lightning_beam
+rhasta_spell_hex
+rhasta_heroname
+rhasta_spell_forked_lightning
+rhasta_spell_shackle_new
+rhasta_spell_shackle
+rhasta_spell_shackle_net
+rhasta_spell_forked_lightning_beam
+rhasta_spell_shackle_net

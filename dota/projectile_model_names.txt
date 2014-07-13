@@ -1,0 +1,5 @@
+models\projectiles\drow_arrow.mdl
+models\projectiles\furion_growth.mdl
+models\projectiles\mirana_arrow.mdl
+models\projectiles\projectile_jar.mdl
+models\projectiles\windrunner_arrow.mdl
