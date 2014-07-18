@@ -1,28 +1,31 @@
+Dota 2 moding dump
+=========
+
+This dump contains useful information that you will frequently need to look at when modding. Please note that the files are not created by me, this mearly serves as a mirror incase the actual site goes down. You may goto the actual website owned by [hex6]
+
+
+[hex6]: http://hex6.se/
+
+ 
+
 Directory
---------
-*[Hero Sounds] 
-*[Creep Sounds]
-*[Item Sounds]
-*[Musical Sounds]
-*[Item Icons]
-*[Ability Names]
-*[Modifier Names - by BoneZ]
-*[Modifier Functions - by tet]
-*[Hero Model Names] 
-*[Creep Model Names]
-*[Prop Model Names]
-*[Projectile Model Names]
-*[Courier Model Names]
-*[Cosmetic Item Model Names]
-*[Building Model Names]
-*[Particle files]
-
-
-
-
-
-
-
+----
+List of files in the dump. 
+* [Hero Sounds]                   - Sounds made by heroes* 
+* [Creep Sounds]                  - Creep made by creeps* 
+* [Item Sounds]                   - Sounds made by items* 
+* [Musical Sounds]* 
+* [Item Icons]                    - Icon text names* 
+* [Ability Names]                 - Names of all abilities (useful when writing in npc_abilities_custom.txt* )
+* [Modifier Names - by BoneZ]     - All of the modifiers in the game (useful when writing in npc_abilities_* custom.txt)
+* [Modifier Functions - by tet]   - Modifier functions (useful when writing in npc_abilities_custom.txt)
+* [Hero Model Names]        
+* [Creep Model Names]
+* [Prop Model Names]
+* [Projectile Model Names]
+* [Courier Model Names]
+* [Cosmetic Item Model Names]
+* [Building Model Names]
 
 [Hero Sounds]: https://github.com/bhargavrpatel/dota-modding-dump/blob/master/dota/hero_sounds.txt         
 [Creep Sounds]: https://github.com/bhargavrpatel/dota-modding-dump/blob/master/dota/game_sounds_creeps.txt
