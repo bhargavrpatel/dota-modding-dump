@@ -1,4 +1,9 @@
+Updated On: July 18th, 2014
+Pack Extracted on: July 11th, 2014
+Diff: http://www.diffchecker.com/g1zxeeb7
 models\courier\baby_rosh\babyroshan.mdl
+models\courier\baby_rosh\babyroshan_elemental.mdl
+models\courier\baby_rosh\babyroshan_elemental_flying.mdl
 models\courier\baby_rosh\babyroshan_flying.mdl
 models\courier\badger\badger.mdl
 models\courier\badger\badger_flying.mdl
@@ -10,10 +15,16 @@ models\courier\defense3_sheep\defense3_sheep.mdl
 models\courier\defense3_sheep\defense3_sheep_flying.mdl
 models\courier\donkey_unicorn\donkey_unicorn.mdl
 models\courier\donkey_unicorn\donkey_unicorn_flying.mdl
+models\courier\doom_demihero_courier\doom_demihero_courier.mdl
+models\courier\doom_demihero_courier\doom_demihero_courier_flying.mdl
 models\courier\drodo\drodo.mdl
 models\courier\drodo\drodo_flying.mdl
+models\courier\f2p_courier\f2p_courier.mdl
+models\courier\f2p_courier\f2p_courier_flying.mdl
 models\courier\frog\frog.mdl
 models\courier\frog\frog_flying.mdl
+models\courier\godhorse\godhorse.mdl
+models\courier\godhorse\godhorse_flying.mdl
 models\courier\gold_mega_greevil\gold_mega_greevil.mdl
 models\courier\gold_mega_greevil\gold_mega_greevil_flying.mdl
 models\courier\greevil\gold_greevil.mdl
@@ -60,12 +71,18 @@ models\courier\mega_greevil_courier\mega_greevil_courier_flying.mdl
 models\courier\mighty_boar\mighty_boar.mdl
 models\courier\mighty_boar\mighty_boar_wings.mdl
 models\courier\minipudge\minipudge.mdl
+models\courier\minipudge\minipudge_flying.mdl
 models\courier\navi_courier\navi_courier.mdl
 models\courier\navi_courier\navi_courier_flying.mdl
+models\courier\octopus\octopus.mdl
 models\courier\otter_dragon\otter_dragon.mdl
 models\courier\otter_dragon\otter_dragon_flying.mdl
 models\courier\sillydragon\sillydragon.mdl
 models\courier\sillydragon\sillydragon_flying.mdl
+models\courier\skippy_parrot\skippy_parrot.mdl
+models\courier\skippy_parrot\skippy_parrot_flying.mdl
+models\courier\skippy_parrot\skippy_parrot_flying_rowboat.mdl
+models\courier\skippy_parrot\skippy_parrot_flying_sailboat.mdl
 models\courier\smeevil\smeevil.mdl
 models\courier\smeevil\smeevil_flying.mdl
 models\courier\smeevil_bird\smeevil_bird.mdl
@@ -79,9 +96,9 @@ models\courier\smeevil_mammoth\smeevil_mammoth_flying.mdl
 models\courier\snowleopard\snowleopard_courier.mdl
 models\courier\snowleopard\snowleopard_shape.mdl
 models\courier\stump\stump.mdl
+models\courier\stump\stump_flying.mdl
 models\courier\stump\stump001.mdl
 models\courier\stump\stump001_flying.mdl
-models\courier\stump\stump_flying.mdl
 models\courier\sw_donkey\sw_donkey.mdl
 models\courier\sw_donkey\sw_donkey_flying.mdl
 models\courier\tegu\tegu.mdl
@@ -95,4 +112,3 @@ models\courier\turtle_rider\turtle_rider.mdl
 models\courier\turtle_rider\turtle_rider_flying.mdl
 models\courier\yak\yak.mdl
 models\courier\yak\yak_wings.mdl
-
