@@ -24,12 +24,12 @@ List of files in the dump.
     * [Modifier Names - by BoneZ]     - All of the modifiers in the game (useful when writing in npc_abilities_custom.txt)
     * [Modifier Functions - by tet]   - Modifier functions (useful when writing in npc_abilities_custom.txt)
 * Models
-    * [Hero Model Names]        
-    * [Creep Model Names]
-    * [Prop Model Names]
-    * [Projectile Model Names]
-    * [Courier Model Names]
-    * [Cosmetic Item Model Names]
+    * [Hero Model Names]       (updated Jul 18th 2014)
+    * [Creep Model Names]      (updated Jul 18th 2014)
+    * [Prop Model Names]       (updated Jul 18th 2014)
+    * [Projectile Model Names] 
+    * [Courier Model Names]   (updated Jul 18th 2014)
+    * [Cosmetic Item Model Names] (updated Jul 18th 2014)
     * [Building Model Names]
 
 [Hero Sounds]: https://github.com/bhargavrpatel/dota-modding-dump/blob/master/dota/hero_sounds.txt         
