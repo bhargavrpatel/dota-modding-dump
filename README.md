@@ -1,4 +1,4 @@
-Dota 2 moding dump
+Dota 2 moding dump   (Current Pack Extract Date: July 11th, 2014)
 =========
 
 This dump contains useful information that you will frequently need to look at when modding. Please note that the files are not created by me, this mearly serves as a mirror incase the actual site goes down. You may goto the actual website owned by [hex6]
