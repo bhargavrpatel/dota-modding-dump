@@ -21,7 +21,7 @@ List of files in the dump.
     * [Musical Sounds]  - (HAVE NOT CHECKED YET. This is because this file is a combination of multiple files)
 * Icons
     * [Item Icons] - (CHANGED)
-    * [Ability Names and icons] - Names of all abilities (useful when writing in npc_abilities_custom.txt you may also use "AbilityTextureName" "<NAME>" to get the same texture as a pre-defined ability)
+    * [Ability Names and icons] - (CHANGED) Names of all abilities (useful when writing in npc_abilities_custom.txt you may also use "AbilityTextureName" "<NAME>" to get the same texture as a pre-defined ability)
 * Modifiers
     * [Modifier Names - by BoneZ]     - All of the modifiers in the game (useful when writing in npc_abilities_custom.txt)
     * [Modifier Functions - by tet]   - Modifier functions (useful when writing in npc_abilities_custom.txt)
