@@ -1,3 +1,7 @@
+Updated On: July 20th, 2014
+Pack Extracted On: July 20th, 2014
+Git diff: http://www.diffchecker.com/c2xzgca1 (Mainly all the repeats are gone)
+===================================================================================================
 "Hero_Abaddon.PreAttack"
 "Hero_Abaddon.Attack"
 "Hero_Abaddon.Attack.Ring"
