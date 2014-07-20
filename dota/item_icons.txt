@@ -1,3 +1,8 @@
+Updated On: July 20th, 2014
+Pack Extracted On: July 20th, 2014
+
+Git Diff: http://www.diffchecker.com/e6fw2hob
+========================================================================
 item_abyssal_blade
 item_aegis
 item_ancient_janggo
