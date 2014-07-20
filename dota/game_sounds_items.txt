@@ -1,0 +1,70 @@
+Updated On: July 20th, 2014
+Pack Extracted On: July 20th, 2014
+
+Git Diff: http://www.diffchecker.com/forurzt3
+===================================================================
+DOTA_Item.Tango.Activate
+DOTA_Item.ClarityPotion.Activate
+DOTA_Item.HealingSalve.Activate
+DOTA_Item.SmokeOfDeceit.Activate
+DOTA_Item.Hand_Of_Midas
+DOTA_Item.DustOfAppearance.Activate
+DOTA_Item.ObserverWard.Activate
+DOTA_Item.BlinkDagger.Activate
+DOTA_Item.MagicStick.Activate //local
+DOTA_Item.MagicWand.Activate //local
+DOTA_Item.PhaseBoots.Activate //local
+DOTA_Item.Mekansm.Activate
+DOTA_Item.Mekansm.Target
+DOTA_Item.Pipe.Activate
+DOTA_Item.Orchid.Activate
+DOTA_Item.Cyclone.Activate //target
+DOTA_Item.ForceStaff.Activate
+DOTA_Item.Dagon.Activate
+DOTA_Item.Dagon5.Target
+DOTA_Item.Refresher.Activate //local
+DOTA_Item.BlackKingBar.Activate
+DOTA_Item.ShivasGuard.Activate
+DOTA_Item.BladeMail.Activate
+DOTA_Item.BladeMail.Damage
+DOTA_Item.BladeMail.Deactivate
+DOTA_Item.DiffusalBlade.Activate
+DOTA_Item.DiffusalBlade.Target
+DOTA_Item.DiffusalBlade.Kill
+DOTA_Item.Satanic.Activate
+DOTA_Item.HotD.Activate
+DOTA_Item.Manta.Activate
+DOTA_Item.Manta.End
+DOTA_Item.InvisibilitySword.Activate
+DOTA_Item.MaskOfMadness.Activate
+DOTA_Item.SoulRing.Activate //local
+DOTA_Item.ArcaneBoots.Activate //local team
+DOTA_Item.LinkensSphere.Activate
+DOTA_Item.VeilofDiscord.Activate
+DOTA_Item.UrnOfShadows.Activate
+DOTA_Item.MedallionOfCourage.Activate
+DOTA_Item.AbyssalBlade.Activate
+DOTA_Item.HeavensHalberd.Activate
+DOTA_Item.RodOfAtos.Activate
+DOTA_Item.TranquilBoots.Activate
+Item.Maelstrom.Chain_Lightning
+Item.Maelstrom.Chain_Lightning.Jump
+DOTA_Item.ShadowAmulet.Activate
+DOTA_Item.Buckler.Activate
+DOTA_Item.DoE.Activate
+DOTA_Item.Mjollnir.Activate
+DOTA_Item.Mjollnir.DeActivate
+DOTA_Item.Mjollnir.Loop
+DOTA_Item.Necronomicon.Activate
+DOTA_Item.Necronomicon.Deaths
+DOTA_Item.Necronomicon.Bow
+DOTA_Item.Armlet.Activate
+DOTA_Item.Armlet.DeActivate
+DOTA_Item.Sheepstick.Activate
+DOTA_Item.EtherealBlade.Activate
+DOTA_Item.EtherealBlade.Target
+DOTA_Item.GhostScepter.Activate //local
+DOTA_Item.Cheese.Activate
+DOTA_Item.Radiance.Target.Loop
+DOTA_Item.Daedelus.Crit
+DOTA_Item.SkullBasher
