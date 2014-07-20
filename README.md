@@ -1,9 +1,11 @@
 Dota 2 moding dump   
 =========
-###(Current Pack Extract Date: July 11th, 2014)
+###(Current Pack Extract Date: July 20th, 2014)
+####(Date on which all files were checked: Julty 20th, 2014)
 
 This dump contains useful information that you will frequently need to look at when modding. Please note that the files are not created by me, this mearly serves as a mirror incase the actual site goes down. You may goto the actual website owned by [hex6]
 
+As of the check date above, all the items will be annotated with (CHANGED or UNCHANGED). In each file you will see a link to an online diff site on which it will be easier to see what changed. Keep in mind that some times the texts may simply be in different order. 
 
 [hex6]: http://hex6.se/
 
@@ -13,12 +15,12 @@ Directory
 ----
 List of files in the dump. 
 * Sounds
-    * [Hero Sounds]     - Sounds made by heroes
-    * [Creep Sounds]    - Creep made by creeps 
-    * [Item Sounds]     - Sounds made by items
-    * [Musical Sounds]  - Sounds related to game music
+    * [Hero Sounds]     - (CHANGED)
+    * [Creep Sounds]    - (UNCHANGED)
+    * [Item Sounds]     - (CHANGED)
+    * [Musical Sounds]  - (HAVE NOT CHECKED YET. This is because this file is a combination of multiple files)
 * Icons
-    * [Item Icons] - List of all item icon names
+    * [Item Icons] - (CHANGED)
     * [Ability Names and icons] - Names of all abilities (useful when writing in npc_abilities_custom.txt you may also use "AbilityTextureName" "<NAME>" to get the same texture as a pre-defined ability)
 * Modifiers
     * [Modifier Names - by BoneZ]     - All of the modifiers in the game (useful when writing in npc_abilities_custom.txt)

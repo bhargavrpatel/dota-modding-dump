@@ -43,6 +43,8 @@ item_courier_dire
 item_courier_dire_flying
 item_courier_radiant
 item_courier_radiant_flying
+item_crimson_guard
+item_crimson_robe
 item_cyclone
 item_dagon
 item_dagon_2
@@ -58,6 +60,8 @@ item_eagle
 item_emptyitembg
 item_energy_booster
 item_ethereal_blade
+item_firecrackers
+item_firework_mine
 item_flask
 item_flask2
 item_flying_courier
@@ -85,8 +89,7 @@ item_helm_of_the_dominator
 item_hood_of_defiance
 item_hyperstone
 item_invis_sword
-item_item_names.txt
-item_item_javelin
+item_javelin
 item_lesser_crit
 item_lifesteal
 item_maelstrom
@@ -112,6 +115,7 @@ item_mystic_staff
 item_necronomicon
 item_necronomicon_2
 item_necronomicon_3
+item_nian_flag_trap
 item_null_talisman
 item_oblivion_staff
 item_ogre_axe
@@ -173,6 +177,7 @@ item_tpscroll
 item_tranquil_boots
 item_tranquil_boots_active
 item_travel_boots
+item_travel_boots_tinker
 item_ultimate_orb
 item_ultimate_scepter
 item_urn_of_shadows
