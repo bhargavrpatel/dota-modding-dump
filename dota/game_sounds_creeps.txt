@@ -1,3 +1,7 @@
+Last Checked: July 20th, 2014 (No Change)
+Pack Extracted On: Julty 20th, 2014
+Git Diff: Both files identicals, no new additions
+==============================================
 Creep_Good_Range.PreAttack
 Creep_Good_Range.Attack
 Creep_Good_Range.ProjectileImpact
