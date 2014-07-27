@@ -54,6 +54,17 @@
 			"EffectAttachType" [ATTACH TYPE]
 			"Target" TARGETKEY
 		}
+		"AttachEffect"
+		{
+			"Target"	"CASTER"
+			"ControlPointEntities"
+			{
+				"CASTER"		"attach_mouth"
+				"TARGET"		"attach_hitloc"
+			}
+			"EffectName"		"lion_spell_mana_drain"
+			"EffectAttachType"	"start_at_customorigin"
+		}
 		"FireSound"
 		{
 			"EffectName"		"Tower.Fire.Attack"
